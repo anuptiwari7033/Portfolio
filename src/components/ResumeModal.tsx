@@ -83,6 +83,8 @@ export const ResumeModal: React.FC<ResumeModalProps> = ({ isOpen, onClose }) => 
                 <div className="text-xs font-mono text-[#66645F] dark:text-[#B7B4AA] space-y-1 text-left sm:text-right">
                   <div>Email: {personalData.email}</div>
                   <div>GitHub: {personalData.github.replace('https://', '')}</div>
+                  <div>LinkedIn: linkedin.com/in/anup-tiwari-106835305</div>
+                  <div>LeetCode: leetcode.com/u/anuptiwari</div>
                   <div>Codeforces: at241707</div>
                 </div>
               </div>

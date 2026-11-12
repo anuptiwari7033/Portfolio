@@ -51,21 +51,21 @@ export interface Achievement {
 export const personalData = {
   name: "Anup Tiwari",
   initials: "AT",
-  primaryTitle: "Full Stack Developer | AI Engineer",
-  shortTitle: "Full Stack & AI Engineer",
-  tagline: "Building scalable distributed web applications, real-time architectures, and adaptive multi-agent AI systems.",
+  primaryTitle: "Full Stack Developer",
+  shortTitle: "Full Stack Developer",
+  tagline: "Building scalable distributed web applications, real-time architectures, and modern web platforms.",
   location: "Ghaziabad, Uttar Pradesh, India",
   email: "anuptiwari7033@gmail.com", // easily customizable
   phone: "+91 9XXXXXXXXX", // user can update
   github: "https://github.com/anuptiwari7033",
   codeforces: "https://codeforces.com/profile/at241707",
-  leetcode: "https://leetcode.com/u/anuptiwari7033/",
-  linkedin: "https://linkedin.com/in/anup-tiwari",
+  leetcode: "https://leetcode.com/u/anuptiwari/",
+  linkedin: "https://www.linkedin.com/in/anup-tiwari-106835305",
   resumePdfUrl: "#resume-modal",
 
   about: {
     heading: "About Me",
-    paragraph: "I'm a Computer Science engineering undergraduate at KIET focused on engineering high-performance full-stack web applications and next-generation autonomous AI systems. From architecting multi-agent orchestration frameworks with LangGraph to engineering high-concurrency real-time platforms with WebSockets and Redis, I love solving hard engineering problems and optimizing system reliability.",
+    paragraph: "I'm a Computer Science engineering undergraduate at KIET focused on engineering high-performance full-stack web applications and scalable software systems. From architecting modern web platforms to engineering high-concurrency real-time systems with WebSockets, I love solving hard engineering problems and optimizing system reliability.",
     highlights: [
       "Specialized in full-stack architecture (React, Node.js, Express, MongoDB) & microservices.",
       "Hands-on with Multi-Agent AI Orchestration, LangGraph, and LLM token optimization.",
@@ -164,15 +164,15 @@ export const skillsData = {
   },
   ai: {
     title: "AI & Agent Development",
-    skills: ["LangGraph", "Multi-Agent Orchestration", "LLM Integration", "Prompt Engineering", "Token Optimization"]
+    skills: ["LangGraph", "Multi-Agent Orchestration", "LLM Integration", "Token Optimization"]
   },
   databases: {
     title: "Databases & Storage",
-    skills: ["MongoDB", "MySQL", "Redis"]
+    skills: ["MongoDB", "MySQL"]
   },
   tools: {
     title: "Tools & DevOps",
-    skills: ["Git", "GitHub", "Docker", "Postman", "VS Code", "Linux"]
+    skills: ["Git", "GitHub", "Docker", "Postman", "VS Code"]
   },
   core: {
     title: "Core Computer Science",
@@ -232,7 +232,7 @@ export const achievementsData: Achievement[] = [
     type: "Data Structures & Algorithms",
     iconType: "terminal",
     description: "Solved 300+ algorithmic problems using C++, covering Dynamic Programming, Graph Theory, Trees, Recursion, Two Pointers, and Greedy heuristics.",
-    link: "https://leetcode.com/u/anuptiwari7033/"
+    link: "https://leetcode.com/u/anuptiwari/"
   },
   {
     id: "hackwithinfy",

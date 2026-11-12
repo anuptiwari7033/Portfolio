@@ -64,7 +64,7 @@ export const About: React.FC = () => {
                 <div>
                   <div className="text-[11px] font-mono text-[#66645F] dark:text-[#B7B4AA]">Target Roles</div>
                   <div className="text-xs font-semibold text-[#171717] dark:text-[#F5F3EA]">
-                    Full-Stack & AI Systems
+                    Full-Stack Development
                   </div>
                 </div>
               </div>

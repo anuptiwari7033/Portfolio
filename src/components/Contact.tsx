@@ -55,7 +55,7 @@ export const Contact: React.FC = () => {
             Let's build something meaningful.
           </h2>
           <p className="text-sm sm:text-base text-[#66645F] dark:text-[#A7A499] mt-2 max-w-xl">
-            I'm currently open to full-stack engineering internships, AI developer roles, and high-impact software projects.
+            I'm currently open to full-stack engineering internships, software developer roles, and high-impact web projects.
           </p>
         </div>
 

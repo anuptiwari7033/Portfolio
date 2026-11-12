@@ -1,4 +1,4 @@
-# Anup Tiwari — Personal Developer & AI Engineer Portfolio
+# Anup Tiwari — Personal Full Stack Developer Portfolio
 
 A modern, high-performance portfolio website engineered with **React (Vite)**, **Tailwind CSS**, **Framer Motion**, and **Canvas Animations**, inspired by modern luxury developer aesthetics (Deep Charcoal `#0F0F0E` + Warm Ivory Light Mode + Gold `#D4AF37` Accents).
 

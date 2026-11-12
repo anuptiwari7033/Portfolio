@@ -45,11 +45,11 @@ export const Hero: React.FC<HeroProps> = ({ onOpenResume }) => {
             </h1>
 
             <p className="text-lg sm:text-xl font-medium text-[#44423E] dark:text-[#E2DFD2] leading-relaxed mb-4">
-              Building scalable distributed web applications, real-time architectures, and adaptive multi-agent AI systems.
+              Building scalable distributed web applications, real-time architectures, and modern web platforms.
             </p>
 
             <p className="text-sm sm:text-base text-[#66645F] dark:text-[#A7A499] leading-relaxed mb-8 max-w-2xl">
-              Computer Science undergraduate at <strong className="text-[#171717] dark:text-[#F5F3EA]">KIET Group of Institutions</strong>. Passionate about LangGraph multi-agent workflows, full-stack microservices, and solving challenging algorithmic problems in C++.
+              Computer Science undergraduate at <strong className="text-[#171717] dark:text-[#F5F3EA]">KIET Group of Institutions</strong>. Passionate about scalable web architectures, full-stack microservices, and solving challenging algorithmic problems in C++.
             </p>
 
             {/* Action Buttons */}

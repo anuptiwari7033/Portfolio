@@ -187,13 +187,13 @@ export const HeroVisual: React.FC = () => {
           </div>
           <div>
             <div className="text-xs font-semibold text-[#171717] dark:text-[#F5F3EA] flex items-center gap-2">
-              <span>Agentic Mesh & Real-Time Engine</span>
+              <span>Distributed Mesh & Real-Time Engine</span>
               <span className="px-1.5 py-0.5 rounded text-[10px] font-mono bg-[#C49A2C]/15 dark:bg-[#D4AF37]/20 text-[#C49A2C] dark:text-[#D4AF37]">
                 ACTIVE
               </span>
             </div>
             <div className="text-[11px] font-mono text-[#66645F] dark:text-[#B7B4AA]">
-              LangGraph • Socket.IO • Distributed Microservices
+              React • Node.js • Socket.IO • Microservices
             </div>
           </div>
         </div>
